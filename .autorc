@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "tbm69",
+  "repo": "container-giymngi",
+  "name": "tbm69",
+  "email": "tbmmono95@gmail.com",
+}
